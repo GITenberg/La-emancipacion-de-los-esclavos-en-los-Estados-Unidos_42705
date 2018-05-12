@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41823'
     url: http://www.gutenberg.org/2009/agents/41823
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42705#La-emancipacion-de-los-esclavos-en-los-Estados-Unidos
 gutenberg_issued: '2013-05-13'
 gutenberg_type: Text
 identifiers:
