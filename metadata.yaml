@@ -1,0 +1,33 @@
+_repo: La-emancipacion-de-los-esclavos-en-los-Estados-Unidos_42705
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42705-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Labra, Rafael M. de (Rafael María)
+    aliases:
+    - Cadrana, Rafael María de Labra y
+    - Labra, Rafael María de
+    - Labra, Rafael M. de (Rafael Maria)
+    - De Labra, Rafael M. (Rafael María)
+    birthdate: 1841
+    deathdate: 1918
+    gutenberg_agent_id: '41823'
+    url: http://www.gutenberg.org/2009/agents/41823
+description: ''
+gutenberg_issued: '2013-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42705'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877)'
+- !lcsh 'Freedmen'
+- !lcc 'E456'
+- !lcsh 'Slaves -- Emancipation -- United States'
+title: La emancipacion de los esclavos en los Estados Unidos
+url: http://www.gutenberg.org/ebooks/42705
